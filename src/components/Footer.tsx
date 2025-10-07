@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-snow/20 mt-12 pt-8 text-center">
           <p className="font-garamond text-sm">
-            © 2024 Beleza Viva. Todos os direitos reservados.
+            © 2024 <a href="https:///manassesndombele.com">Manassés Ndombele</a>. Todos os direitos reservados.
           </p>
         </div>
       </div>
